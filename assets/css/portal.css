@@ -1,0 +1,344 @@
+/* ==========================================================
+   AIR LINK WIFI - CUSTOMER CAPTIVE PORTAL STYLESHEET
+   Design System: Clean, Mobile-First, Accessible, High-Contrast
+   Rules: No gradients, no glassmorphism, no neon, no flashy animations
+   Brand Color: Air Link Blue (#0B5ED7)
+   ========================================================== */
+
+:root {
+    --primary: #0b5ed7;
+    --primary-hover: #0a58ca;
+    --primary-active: #094eb8;
+    --text-main: #111827;
+    --text-muted: #4b5563;
+    --text-light: #6b7280;
+    --bg-page: #f9fafb;
+    --bg-card: #ffffff;
+    --border-color: #e5e7eb;
+    --border-focus: #2563eb;
+    --success: #15803d;
+    --success-bg: #f0fdf4;
+    --success-border: #bbf7d0;
+    --danger: #b91c1c;
+    --danger-bg: #fef2f2;
+    --danger-border: #fecaca;
+    --font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    -webkit-tap-highlight-color: transparent;
+}
+
+html, body {
+    height: 100%;
+    background-color: var(--bg-page);
+    color: var(--text-main);
+    font-family: var(--font-stack);
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 16px;
+}
+
+/* Container */
+.portal-container {
+    width: 100%;
+    max-width: 420px;
+    margin: 0 auto;
+}
+
+/* Card */
+.portal-card {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 28px 24px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+/* Header */
+.portal-header {
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.brand-title {
+    font-size: 22px;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+    color: var(--primary);
+    text-transform: uppercase;
+    margin-bottom: 4px;
+}
+
+.brand-tagline {
+    font-size: 14px;
+    color: var(--text-muted);
+    font-weight: 400;
+}
+
+/* Form */
+.portal-form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.form-label {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-main);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.form-input {
+    width: 100%;
+    padding: 14px 16px;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: monospace, var(--font-stack);
+    letter-spacing: 2px;
+    text-align: center;
+    color: var(--text-main);
+    background-color: #ffffff;
+    border: 1.5px solid var(--border-color);
+    border-radius: 6px;
+    outline: none;
+    transition: border-color 0.15s ease;
+    text-transform: uppercase;
+}
+
+.form-input:focus {
+    border-color: var(--border-focus);
+}
+
+.form-input::placeholder {
+    color: #9ca3af;
+    font-weight: 400;
+    font-family: var(--font-stack);
+    letter-spacing: normal;
+    text-transform: none;
+    font-size: 15px;
+}
+
+/* Buttons */
+.btn {
+    display: block;
+    width: 100%;
+    padding: 14px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 6px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: background-color 0.15s ease;
+}
+
+.btn-primary {
+    background-color: var(--primary);
+    color: #ffffff;
+}
+
+.btn-primary:hover {
+    background-color: var(--primary-hover);
+}
+
+.btn-primary:active {
+    background-color: var(--primary-active);
+}
+
+.btn-outline {
+    background-color: transparent;
+    border-color: var(--border-color);
+    color: var(--text-main);
+    font-size: 14px;
+    padding: 11px 16px;
+    font-weight: 500;
+}
+
+.btn-outline:hover {
+    background-color: #f3f4f6;
+}
+
+/* Alerts */
+.alert {
+    padding: 12px 14px;
+    border-radius: 6px;
+    font-size: 14px;
+    line-height: 1.4;
+    margin-bottom: 16px;
+}
+
+.alert-danger {
+    background-color: var(--danger-bg);
+    border: 1px solid var(--danger-border);
+    color: var(--danger);
+}
+
+.alert-success {
+    background-color: var(--success-bg);
+    border: 1px solid var(--success-border);
+    color: var(--success);
+}
+
+/* Buy Online Divider */
+.portal-divider {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 20px 0;
+    color: var(--text-light);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.portal-divider::before,
+.portal-divider::after {
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.portal-divider span {
+    padding: 0 10px;
+}
+
+/* Footer / Help */
+.portal-footer {
+    margin-top: 24px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border-color);
+    text-align: center;
+}
+
+.help-title {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-main);
+    margin-bottom: 4px;
+}
+
+.help-text {
+    font-size: 13px;
+    color: var(--text-muted);
+}
+
+.help-phone {
+    font-weight: 600;
+    color: var(--primary);
+    text-decoration: none;
+}
+
+/* Live Countdown Box (Status Page) */
+.countdown-box {
+    background: #f8fafc;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.countdown-digits {
+    font-size: 28px;
+    font-weight: 800;
+    color: var(--text-main);
+    font-family: monospace, var(--font-stack);
+    margin: 8px 0;
+}
+
+.status-badge {
+    display: inline-block;
+    padding: 4px 10px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-radius: 4px;
+}
+
+.status-connected {
+    background-color: var(--success-bg);
+    border: 1px solid var(--success-border);
+    color: var(--success);
+}
+
+/* Info Table (Status & Success pages) */
+.info-table {
+    width: 100%;
+    margin: 16px 0;
+    border-collapse: collapse;
+}
+
+.info-table td {
+    padding: 8px 0;
+    font-size: 14px;
+    border-bottom: 1px solid #f3f4f6;
+}
+
+.info-table td:first-child {
+    color: var(--text-muted);
+    width: 45%;
+}
+
+.info-table td:last-child {
+    font-weight: 600;
+    color: var(--text-main);
+    text-align: right;
+}
+
+/* Voucher Code Highlight Box */
+.voucher-display-box {
+    background: #f0fdf4;
+    border: 1.5px dashed var(--success-border);
+    border-radius: 6px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.voucher-code-text {
+    font-size: 26px;
+    font-weight: 800;
+    color: #15803d;
+    letter-spacing: 3px;
+    font-family: monospace;
+    user-select: all;
+}
+
+/* Small Device Optimizations */
+@media (max-width: 360px) {
+    .portal-card {
+        padding: 20px 16px;
+    }
+    .brand-title {
+        font-size: 20px;
+    }
+    .form-input {
+        font-size: 16px;
+        padding: 12px;
+    }
+    .countdown-digits {
+        font-size: 24px;
+    }
+}

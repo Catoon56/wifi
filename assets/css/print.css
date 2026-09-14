@@ -1,0 +1,140 @@
+/* ==========================================================
+   AIR LINK WIFI - VOUCHER PRINT STYLESHEET
+   Suitable for: Thermal Receipt Printers (58mm/80mm) and A4 sheets
+   Rules: No gradients, no emojis, clean borders, crisp typography
+   ========================================================== */
+
+@media screen {
+    body {
+        background-color: #f1f5f9;
+        padding: 24px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace, sans-serif;
+    }
+
+    .print-actions {
+        max-width: 800px;
+        margin: 0 auto 20px auto;
+        display: flex;
+        gap: 12px;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .voucher-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+        gap: 16px;
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+
+    .voucher-ticket {
+        background: #ffffff;
+        border: 1.5px dashed #334155;
+        border-radius: 4px;
+        padding: 16px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+}
+
+@media print {
+    body {
+        background: transparent !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        color: #000000 !important;
+        font-family: monospace, sans-serif !important;
+    }
+
+    .no-print, .print-actions {
+        display: none !important;
+    }
+
+    /* A4 Grid Format */
+    .voucher-grid {
+        display: grid !important;
+        grid-template-columns: repeat(3, 1fr) !important;
+        gap: 8mm !important;
+        padding: 10mm !important;
+        page-break-inside: auto;
+    }
+
+    .voucher-ticket {
+        border: 1px dashed #000000 !important;
+        padding: 12px !important;
+        page-break-inside: avoid;
+        box-shadow: none !important;
+    }
+
+    /* Thermal receipt mode */
+    body.thermal-mode .voucher-grid {
+        display: block !important;
+        width: 100% !important;
+        max-width: 72mm !important;
+        padding: 0 !important;
+        margin: 0 auto !important;
+    }
+
+    body.thermal-mode .voucher-ticket {
+        border: 1px solid #000000 !important;
+        margin-bottom: 5mm !important;
+        page-break-after: always;
+    }
+}
+
+/* Voucher Ticket Design */
+.voucher-ticket {
+    text-align: center;
+    line-height: 1.4;
+}
+
+.ticket-header {
+    font-size: 15px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 1px solid #000000;
+    padding-bottom: 4px;
+    margin-bottom: 8px;
+}
+
+.ticket-package {
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.ticket-code-label {
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.ticket-code {
+    font-size: 20px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    margin: 4px 0 10px 0;
+    padding: 6px 4px;
+    border: 1px solid #000000;
+    background-color: #ffffff;
+    font-family: monospace;
+}
+
+.ticket-details {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    border-top: 1px dashed #666666;
+    padding-top: 6px;
+    margin-top: 6px;
+}
+
+.ticket-instructions {
+    font-size: 10px;
+    margin-top: 8px;
+    color: #333333;
+    line-height: 1.3;
+}

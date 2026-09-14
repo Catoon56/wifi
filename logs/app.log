@@ -1,0 +1,226 @@
+[2026-09-09 15:07:30] [SUCCESS] [admin:admin] [ADMIN_LOGIN_SUCCESS] [::1] Admin authenticated successfully.
+[2026-09-09 15:07:51] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALL9PX64U6 for package 1 Hour Internet.
+[2026-09-09 15:08:21] [SUCCESS] [system:UNKNOWN-MAC] [OMADA_AUTH_SIMULATED] [::1] SIMULATION MODE: Client UNKNOWN-MAC successfully authorized for 60 mins on SSID 'Air Link WiFi'.
+[2026-09-09 15:08:22] [SUCCESS] [customer:UNKNOWN-MAC] [VOUCHER_ACTIVATED] [::1] Voucher ALL9PX64U6 activated for 60 mins.
+[2026-09-09 15:08:23] [SUCCESS] [system:UNKNOWN-MAC] [OMADA_AUTH_SIMULATED] [::1] SIMULATION MODE: Client UNKNOWN-MAC successfully authorized for 60 mins on SSID 'Air Link WiFi'.
+[2026-09-09 15:08:23] [SUCCESS] [customer:UNKNOWN-MAC] [VOUCHER_RECONNECT] [::1] Reconnected on voucher ALL9PX64U6.
+[2026-09-09 15:09:12] [SUCCESS] [system:UNKNOWN-MAC] [OMADA_AUTH_SIMULATED] [::1] SIMULATION MODE: Client UNKNOWN-MAC successfully authorized for 60 mins on SSID 'Air Link WiFi'.
+[2026-09-09 15:09:12] [SUCCESS] [customer:UNKNOWN-MAC] [VOUCHER_RECONNECT] [::1] Reconnected on voucher ALL9PX64U6.
+[2026-09-09 15:19:31] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL5V9R7RDK for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:31] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL5LM4MA3Z for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:31] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL444UBQAR for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALA4ACLC6G for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALTJZBSFBB for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALHCS2DY4E for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALZ9KPZHM6 for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALYHB9ZYRB for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL4WXDB6KE for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALAREWVQWG for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALW9TRR8KM for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALMLP7UK9R for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL787N984M for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALXL7SAY23 for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL4DAQV985 for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALAVS25EXC for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALT8XY3VQB for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALD3Y8UM7Y for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALKTCEPTS4 for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:32] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL2YDXATNN for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALFCBM3PH7 for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL9DW2PX27 for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALZTTM7XJ5 for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALS55SX8P8 for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALHLAEPSBN for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALTCS43HYG for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALFZ8FUXEN for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALUN2NQ6JP for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALBJSQPHAB for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALKDXRV33X for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL8DVC8BZC for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALJQETFUTN for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL2QWBAUAL for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL375FP9XG for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALQ2THGVNG for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALUGAULXXP for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALC9ZZM7DU for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:33] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALBYEAQ8K4 for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:34] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALATPCX6PR for package Kibosi Zaidi Combo.
+[2026-09-09 15:19:34] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL33TRRX8S for package Kibosi Zaidi Combo.
+[2026-09-09 15:20:09] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALH7JSUJXF for package Chap Combo.
+[2026-09-09 15:20:09] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL9YWHSM3C for package Chap Combo.
+[2026-09-09 15:20:09] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALMJ7R62JP for package Chap Combo.
+[2026-09-09 15:20:09] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALL43BXBLV for package Chap Combo.
+[2026-09-09 15:20:09] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALGH4WQRJ9 for package Chap Combo.
+[2026-09-09 15:20:09] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALWA566GXC for package Chap Combo.
+[2026-09-09 15:20:09] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL4TUU2RSY for package Chap Combo.
+[2026-09-09 15:20:09] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALCWRVRY2E for package Chap Combo.
+[2026-09-09 15:20:09] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALEUJ89BHB for package Chap Combo.
+[2026-09-09 15:20:09] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALPYEXNMZ9 for package Chap Combo.
+[2026-09-09 15:20:09] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALJCAH9LZP for package Chap Combo.
+[2026-09-09 15:20:09] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALGBZ99KFT for package Chap Combo.
+[2026-09-09 15:20:16] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALKQHUH7G5 for package Chap Chap.
+[2026-09-09 15:20:16] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL7JHN7HC2 for package Chap Chap.
+[2026-09-09 15:20:16] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALW4QAE4A2 for package Chap Chap.
+[2026-09-09 15:20:16] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALZGF837AR for package Chap Chap.
+[2026-09-09 15:20:16] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL8ESTMEET for package Chap Chap.
+[2026-09-09 15:20:16] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALYJ8JWEWT for package Chap Chap.
+[2026-09-09 15:20:16] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALHACX8J5S for package Chap Chap.
+[2026-09-09 15:20:16] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALW6WU93J3 for package Chap Chap.
+[2026-09-09 15:20:16] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALGLN37H5N for package Chap Chap.
+[2026-09-09 15:20:16] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL5HGHHVCD for package Chap Chap.
+[2026-09-09 15:20:17] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALHNQQ6LLN for package Chap Chap.
+[2026-09-09 15:20:17] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALNHVZQDPL for package Chap Chap.
+[2026-09-09 15:20:17] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALCXMTU4KM for package Chap Chap.
+[2026-09-09 15:20:17] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALWMYD2D9U for package Chap Chap.
+[2026-09-09 15:20:17] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL3LFRBSN4 for package Chap Chap.
+[2026-09-09 15:20:17] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALPAR3A828 for package Chap Chap.
+[2026-09-09 15:20:17] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL9P25NS52 for package Chap Chap.
+[2026-09-09 15:20:17] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALQWG94T38 for package Chap Chap.
+[2026-09-09 15:20:17] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALFBT5L4VY for package Chap Chap.
+[2026-09-09 15:20:17] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALB5W7RNTW for package Chap Chap.
+[2026-09-09 15:20:17] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALHRMU37DT for package Chap Chap.
+[2026-09-09 15:20:17] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALZE24H7RU for package Chap Chap.
+[2026-09-09 15:20:17] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALYVR9D72D for package Chap Chap.
+[2026-09-09 15:23:03] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALDUQFGXVR for package test.
+[2026-09-09 15:25:51] [SUCCESS] [system:UNKNOWN-MAC] [OMADA_AUTH_SIMULATED] [192.168.0.152] SIMULATION MODE: Client UNKNOWN-MAC successfully authorized for 1 mins on SSID 'Air Link WiFi'.
+[2026-09-09 15:25:51] [SUCCESS] [customer:UNKNOWN-MAC] [VOUCHER_ACTIVATED] [192.168.0.152] Voucher ALDUQFGXVR activated for 1 mins.
+[2026-09-09 15:25:52] [SUCCESS] [system:UNKNOWN-MAC] [OMADA_AUTH_SIMULATED] [192.168.0.152] SIMULATION MODE: Client UNKNOWN-MAC successfully authorized for 1 mins on SSID 'Air Link WiFi'.
+[2026-09-09 15:25:52] [SUCCESS] [customer:UNKNOWN-MAC] [VOUCHER_RECONNECT] [192.168.0.152] Reconnected on voucher ALDUQFGXVR.
+[2026-09-09 15:27:48] [FAILURE] [customer:UNKNOWN-MAC] [VOUCHER_EXPIRED] [192.168.0.152] Voucher ALDUQFGXVR has expired.
+[2026-09-09 15:32:10] [SUCCESS] [system:UNKNOWN-MAC] [OMADA_AUTH_SIMULATED] [192.168.0.152] SIMULATION MODE: Client UNKNOWN-MAC successfully authorized for 120 mins on SSID 'Air Link WiFi'.
+[2026-09-09 15:32:10] [SUCCESS] [customer:UNKNOWN-MAC] [VOUCHER_ACTIVATED] [192.168.0.152] Voucher ALYVR9D72D activated for 120 mins.
+[2026-09-09 15:32:10] [SUCCESS] [system:UNKNOWN-MAC] [OMADA_AUTH_SIMULATED] [192.168.0.152] SIMULATION MODE: Client UNKNOWN-MAC successfully authorized for 120 mins on SSID 'Air Link WiFi'.
+[2026-09-09 15:32:10] [SUCCESS] [customer:UNKNOWN-MAC] [VOUCHER_RECONNECT] [192.168.0.152] Reconnected on voucher ALYVR9D72D.
+[2026-09-09 15:33:49] [SUCCESS] [system:UNKNOWN-MAC] [OMADA_AUTH_SIMULATED] [192.168.0.152] SIMULATION MODE: Client UNKNOWN-MAC successfully authorized for 119 mins on SSID 'Air Link WiFi'.
+[2026-09-09 15:33:49] [SUCCESS] [customer:UNKNOWN-MAC] [VOUCHER_RECONNECT] [192.168.0.152] Reconnected on voucher ALYVR9D72D.
+[2026-09-09 15:33:49] [SUCCESS] [system:UNKNOWN-MAC] [OMADA_AUTH_SIMULATED] [192.168.0.152] SIMULATION MODE: Client UNKNOWN-MAC successfully authorized for 119 mins on SSID 'Air Link WiFi'.
+[2026-09-09 15:33:50] [SUCCESS] [customer:UNKNOWN-MAC] [VOUCHER_RECONNECT] [192.168.0.152] Reconnected on voucher ALYVR9D72D.
+[2026-09-09 15:46:00] [SUCCESS] [admin:admin] [SESSION_TERMINATED] [::1] Terminated session SESS-686084B708B2E1AE for MAC UNKNOWN-MAC (Voucher: ALYVR9D72D).
+[2026-09-09 15:46:16] [SUCCESS] [admin:admin] [SESSION_TERMINATED] [::1] Terminated session SESS-1117214F03FF0B13 for MAC UNKNOWN-MAC (Voucher: ALL9PX64U6).
+[2026-09-09 16:04:43] [SUCCESS] [admin:] [VOUCHER_CREATE] [192.168.0.152] Created voucher AL8WQUJY6K for package Chap Combo.
+[2026-09-09 16:04:43] [SUCCESS] [system:0761431149] [ONLINE_VOUCHER_ISSUED] [192.168.0.152] Generated voucher AL8WQUJY6K via PesaPal ref: ALX-20260909160443-FA89C2
+[2026-09-09 16:04:44] [SUCCESS] [system:0761431149] [PAYMENT_VERIFIED] [192.168.0.152] Payment ALX-20260909160443-FA89C2 confirmed. Generated voucher AL8WQUJY6K automatically.
+[2026-09-09 16:05:10] [SUCCESS] [admin:] [VOUCHER_CREATE] [192.168.0.152] Created voucher AL6L5TGGFE for package Chap Combo.
+[2026-09-09 16:05:10] [SUCCESS] [system:0761431149] [ONLINE_VOUCHER_ISSUED] [192.168.0.152] Generated voucher AL6L5TGGFE via PesaPal ref: ALX-20260909160510-A957B0
+[2026-09-09 16:05:10] [SUCCESS] [system:0761431149] [PAYMENT_VERIFIED] [192.168.0.152] Payment ALX-20260909160510-A957B0 confirmed. Generated voucher AL6L5TGGFE automatically.
+[2026-09-09 16:05:32] [SUCCESS] [system:UNKNOWN-MAC] [OMADA_AUTH_SIMULATED] [192.168.0.152] SIMULATION MODE: Client UNKNOWN-MAC successfully authorized for 720 mins on SSID 'Air Link WiFi'.
+[2026-09-09 16:05:33] [SUCCESS] [customer:UNKNOWN-MAC] [VOUCHER_ACTIVATED] [192.168.0.152] Voucher AL6L5TGGFE activated for 720 mins.
+[2026-09-09 16:05:33] [SUCCESS] [system:UNKNOWN-MAC] [OMADA_AUTH_SIMULATED] [192.168.0.152] SIMULATION MODE: Client UNKNOWN-MAC successfully authorized for 720 mins on SSID 'Air Link WiFi'.
+[2026-09-09 16:05:33] [SUCCESS] [customer:UNKNOWN-MAC] [VOUCHER_RECONNECT] [192.168.0.152] Reconnected on voucher AL6L5TGGFE.
+[2026-09-09 16:09:52] [SUCCESS] [admin:admin] [SESSION_TERMINATED] [::1] Terminated session SESS-EB6EC112DB088B7D for MAC UNKNOWN-MAC (Voucher: AL6L5TGGFE).
+[2026-09-09 16:12:03] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALPVL7FNK6 for package Kibosi Zaidi Combo.
+[2026-09-09 16:13:53] [SUCCESS] [admin:] [VOUCHER_CREATE] [::1] Created voucher ALF4TPDU95 for package Kibosi Zaidi Combo.
+[2026-09-09 16:13:53] [SUCCESS] [system:+255761431149] [ONLINE_VOUCHER_ISSUED] [::1] Generated voucher ALF4TPDU95 via PesaPal ref: ALX-20260909161353-A17019
+[2026-09-09 16:13:54] [SUCCESS] [system:+255761431149] [PAYMENT_VERIFIED] [::1] Payment ALX-20260909161353-A17019 confirmed. Generated voucher ALF4TPDU95 automatically.
+[2026-09-09 16:14:12] [SUCCESS] [system:UNKNOWN-MAC] [OMADA_AUTH_SIMULATED] [::1] SIMULATION MODE: Client UNKNOWN-MAC successfully authorized for 1440 mins on SSID 'Air Link WiFi'.
+[2026-09-09 16:14:12] [SUCCESS] [customer:UNKNOWN-MAC] [VOUCHER_ACTIVATED] [::1] Voucher ALF4TPDU95 activated for 1440 mins.
+[2026-09-09 16:14:12] [SUCCESS] [system:UNKNOWN-MAC] [OMADA_AUTH_SIMULATED] [::1] SIMULATION MODE: Client UNKNOWN-MAC successfully authorized for 1440 mins on SSID 'Air Link WiFi'.
+[2026-09-09 16:14:12] [SUCCESS] [customer:UNKNOWN-MAC] [VOUCHER_RECONNECT] [::1] Reconnected on voucher ALF4TPDU95.
+[2026-09-09 16:14:37] [SUCCESS] [admin:] [VOUCHER_CREATE] [::1] Created voucher ALBFZZV3PZ for package Kibosi Zaidi Combo.
+[2026-09-09 16:14:37] [SUCCESS] [system:+255761431149] [ONLINE_VOUCHER_ISSUED] [::1] Generated voucher ALBFZZV3PZ via PesaPal ref: ALX-20260909161437-96CC5F
+[2026-09-09 16:14:37] [SUCCESS] [system:+255761431149] [PAYMENT_VERIFIED] [::1] Payment ALX-20260909161437-96CC5F confirmed. Generated voucher ALBFZZV3PZ automatically.
+[2026-09-09 16:15:02] [SUCCESS] [admin:] [VOUCHER_CREATE] [::1] Created voucher ALEPKWVFMB for package test.
+[2026-09-09 16:15:02] [SUCCESS] [system:+255761431149] [ONLINE_VOUCHER_ISSUED] [::1] Generated voucher ALEPKWVFMB via PesaPal ref: ALX-20260909161502-BE371D
+[2026-09-09 16:15:02] [SUCCESS] [system:+255761431149] [PAYMENT_VERIFIED] [::1] Payment ALX-20260909161502-BE371D confirmed. Generated voucher ALEPKWVFMB automatically.
+[2026-09-09 16:15:28] [SUCCESS] [admin:] [VOUCHER_CREATE] [::1] Created voucher ALAVATPMED for package Kibosi Zaidi Combo.
+[2026-09-09 16:15:28] [SUCCESS] [system:0761431149] [ONLINE_VOUCHER_ISSUED] [::1] Generated voucher ALAVATPMED via PesaPal ref: ALX-20260909161528-CD5A1F
+[2026-09-09 16:15:28] [SUCCESS] [system:0761431149] [PAYMENT_VERIFIED] [::1] Payment ALX-20260909161528-CD5A1F confirmed. Generated voucher ALAVATPMED automatically.
+[2026-09-09 16:27:21] [SUCCESS] [admin:] [VOUCHER_CREATE] [::1] Created voucher ALWFZV2T6D for package Kibosi Zaidi Combo.
+[2026-09-09 16:27:21] [SUCCESS] [system:0761431149] [ONLINE_VOUCHER_ISSUED] [::1] Generated voucher ALWFZV2T6D via PesaPal ref: ALX-20260909160140-F8B5C5
+[2026-09-09 16:27:21] [SUCCESS] [system:0761431149] [PAYMENT_VERIFIED] [::1] Payment ALX-20260909160140-F8B5C5 confirmed. Generated voucher ALWFZV2T6D automatically.
+[2026-09-09 16:28:48] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALDNYPWDWR for package 1 Hour Internet.
+[2026-09-09 14:23:01] [SUCCESS] [admin:admin] [ADMIN_LOGIN_SUCCESS] [::1] Admin authenticated successfully.
+[2026-09-09 14:36:16] [SUCCESS] [system:AA-BB-CC-DD-EE-FF] [OMADA_AUTH_SIMULATED] [::1] SIMULATION MODE: Client AA-BB-CC-DD-EE-FF successfully authorized for 60 mins on SSID 'Air Link WiFi'.
+[2026-09-10 16:15:01] [SUCCESS] [system:AA-BB-CC-DD-EE-FF] [OMADA_AUTH_SIMULATED] [::1] SIMULATION MODE: Client AA-BB-CC-DD-EE-FF successfully authorized for 60 mins on SSID 'Air Link WiFi'.
+[2026-09-10 16:15:01] [SUCCESS] [system:AA-BB-CC-DD-EE-FF] [OMADA_AUTH_SIMULATED] [::1] SIMULATION MODE: Client AA-BB-CC-DD-EE-FF successfully authorized for 60 mins on SSID 'Air Link WiFi'.
+[2026-09-10 16:23:43] [SUCCESS] [system:AA-BB-CC-DD-EE-FF] [OMADA_AUTH_SIMULATED] [::1] SIMULATION MODE: Client AA-BB-CC-DD-EE-FF successfully authorized for 60 mins on SSID 'Air Link WiFi'.
+[2026-09-10 16:25:08] [FAILURE] [admin:admin] [ADMIN_LOGIN_FAIL] [::1] Invalid password attempt 1.
+[2026-09-10 16:25:20] [SUCCESS] [admin:admin] [ADMIN_LOGIN_SUCCESS] [::1] Admin authenticated successfully.
+[2026-09-10 16:25:50] [SUCCESS] [admin:] [VOUCHER_CREATE] [::1] Created voucher ALZVHVBYW6 for package 3 Hours Internet.
+[2026-09-10 16:25:50] [SUCCESS] [system:0761431149] [ONLINE_VOUCHER_ISSUED] [::1] Generated voucher ALZVHVBYW6 via PesaPal ref: ALX-20260910162549-A1289F
+[2026-09-10 16:25:50] [SUCCESS] [system:0761431149] [PAYMENT_VERIFIED] [::1] Payment ALX-20260910162549-A1289F confirmed. Generated voucher ALZVHVBYW6 automatically.
+[2026-09-14 09:23:38] [SUCCESS] [admin:admin] [ADMIN_LOGIN_SUCCESS] [::1] Admin authenticated successfully.
+[2026-09-14 09:23:38] [SUCCESS] [admin:admin] [ADMIN_LOGIN_SUCCESS] [::1] Admin authenticated successfully.
+[2026-09-14 11:17:03] [SUCCESS] [admin:admin] [ADMIN_LOGOUT] [::1] Session expired due to inactivity.
+[2026-09-14 11:17:12] [FAILURE] [admin:admin] [ADMIN_LOGIN_FAIL] [::1] Invalid password attempt 1.
+[2026-09-14 11:17:20] [SUCCESS] [admin:admin] [ADMIN_LOGIN_SUCCESS] [::1] Admin authenticated successfully.
+[2026-09-14 11:22:34] [SUCCESS] [system:AA-BB-CC-DD-EE-FF] [OMADA_AUTH_SIMULATED] [127.0.0.1] SIMULATION MODE: Client AA-BB-CC-DD-EE-FF successfully authorized for 60 mins on SSID 'Air Link WiFi'.
+[2026-09-14 11:25:13] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALWNJAZZTK for package 1 Hour Internet.
+[2026-09-14 11:29:07] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALBQN8H5NZ for package 1 Hour Internet.
+[2026-09-14 11:29:46] [SUCCESS] [system:AA-BB-CC-DD-EE-FF] [OMADA_AUTH_SIMULATED] [127.0.0.1] SIMULATION MODE: Client AA-BB-CC-DD-EE-FF successfully authorized for 60 mins on SSID 'Air Link WiFi'.
+[2026-09-14 11:36:47] [SUCCESS] [system:AA-BB-CC-DD-EE-FF] [OMADA_AUTH_SIMULATED] [127.0.0.1] SIMULATION MODE: Client AA-BB-CC-DD-EE-FF successfully authorized for 60 mins on SSID 'Air Link WiFi'.
+[2026-09-14 11:39:41] [SUCCESS] [system:AA-BB-CC-DD-EE-FF] [OMADA_AUTH_SIMULATED] [127.0.0.1] SIMULATION MODE: Client AA-BB-CC-DD-EE-FF successfully authorized for 60 mins on SSID 'Air Link WiFi'.
+[2026-09-14 11:41:28] [FAILURE] [customer:UNKNOWN-MAC] [VOUCHER_INVALID] [::1] Code entered: ALZVHVBYW6
+[2026-09-14 11:41:33] [SUCCESS] [system:UNKNOWN-MAC] [OMADA_AUTH_SIMULATED] [::1] SIMULATION MODE: Client UNKNOWN-MAC successfully authorized for 60 mins on SSID 'Air Link WiFi'.
+[2026-09-14 11:41:33] [SUCCESS] [customer:UNKNOWN-MAC] [VOUCHER_ACTIVATED] [::1] Voucher ALBQN8H5NZ activated for 60 mins.
+[2026-09-14 11:41:33] [SUCCESS] [system:UNKNOWN-MAC] [OMADA_AUTH_SIMULATED] [::1] SIMULATION MODE: Client UNKNOWN-MAC successfully authorized for 60 mins on SSID 'Air Link WiFi'.
+[2026-09-14 11:41:33] [SUCCESS] [customer:UNKNOWN-MAC] [VOUCHER_RECONNECT] [::1] Reconnected on voucher ALBQN8H5NZ.
+[2026-09-14 11:56:06] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALBARVQFHD for package 1 Hour Internet.
+[2026-09-14 11:59:29] [SUCCESS] [admin:admin] [SESSION_TERMINATED] [::1] Terminated session SESS-D3D6D54F80815747 for MAC UNKNOWN-MAC (Voucher: ALBQN8H5NZ).
+[2026-09-14 11:59:32] [SUCCESS] [admin:admin] [SESSION_TERMINATED] [::1] Terminated session SESS-2ACD8496522F2714 for MAC UNKNOWN-MAC (Voucher: ALBQN8H5NZ).
+[2026-09-14 12:04:48] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALET4MHHPW for package 3 Hours Internet.
+[2026-09-14 12:04:49] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALB2T4R49J for package 3 Hours Internet.
+[2026-09-14 12:04:49] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALNMXRMFFY for package 3 Hours Internet.
+[2026-09-14 12:04:49] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALEBANQJTA for package 3 Hours Internet.
+[2026-09-14 12:04:50] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALZCYFHNAR for package 3 Hours Internet.
+[2026-09-14 12:04:50] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALQ3QNGQFG for package 3 Hours Internet.
+[2026-09-14 12:04:50] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL8SJ84TT3 for package 3 Hours Internet.
+[2026-09-14 12:04:50] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALYXTQA4FY for package 3 Hours Internet.
+[2026-09-14 12:04:50] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALXBGUKLEN for package 3 Hours Internet.
+[2026-09-14 12:04:51] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALRLKVSUSJ for package 3 Hours Internet.
+[2026-09-14 12:04:51] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL8HWM8GH8 for package 3 Hours Internet.
+[2026-09-14 12:04:51] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALMGJJK7HA for package 3 Hours Internet.
+[2026-09-14 12:04:51] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL8C8WVERF for package 3 Hours Internet.
+[2026-09-14 12:04:51] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL88CWMCCL for package 3 Hours Internet.
+[2026-09-14 12:04:51] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALTKHBV4XF for package 3 Hours Internet.
+[2026-09-14 12:04:51] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALJYTP4JDC for package 3 Hours Internet.
+[2026-09-14 12:04:51] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALKAQN3SY8 for package 3 Hours Internet.
+[2026-09-14 12:04:51] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALQKBJLZ2Z for package 3 Hours Internet.
+[2026-09-14 12:04:51] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALDBNQS6B3 for package 3 Hours Internet.
+[2026-09-14 12:04:51] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL5RV3LYYR for package 3 Hours Internet.
+[2026-09-14 12:04:51] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALH94WRAFK for package 3 Hours Internet.
+[2026-09-14 12:04:51] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL6SPQJZ4Y for package 3 Hours Internet.
+[2026-09-14 12:04:52] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALP3TLUU78 for package 3 Hours Internet.
+[2026-09-14 12:04:52] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALEJQJTQ7R for package 3 Hours Internet.
+[2026-09-14 12:04:52] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALJ7AFBPHX for package 3 Hours Internet.
+[2026-09-14 12:04:52] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALSVAZN4R3 for package 3 Hours Internet.
+[2026-09-14 12:04:52] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL2LUFETA8 for package 3 Hours Internet.
+[2026-09-14 12:04:52] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALLDY7996K for package 3 Hours Internet.
+[2026-09-14 12:04:52] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALNFYKLBKB for package 3 Hours Internet.
+[2026-09-14 12:04:52] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALGGKD5M7Z for package 3 Hours Internet.
+[2026-09-14 12:04:52] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL4RG5FM7Z for package 3 Hours Internet.
+[2026-09-14 12:04:52] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL4GYLA6AV for package 3 Hours Internet.
+[2026-09-14 12:04:52] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALYWMXWHJ3 for package 3 Hours Internet.
+[2026-09-14 12:04:52] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL893RH69H for package 3 Hours Internet.
+[2026-09-14 12:04:52] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALR4BLYWTX for package 3 Hours Internet.
+[2026-09-14 12:04:53] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALC4N86RV5 for package 3 Hours Internet.
+[2026-09-14 12:04:53] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL8CBAHYNP for package 3 Hours Internet.
+[2026-09-14 12:04:53] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL63P4U2U4 for package 3 Hours Internet.
+[2026-09-14 12:04:53] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL8ZJVJR3B for package 3 Hours Internet.
+[2026-09-14 12:04:53] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL2HUXC9WX for package 3 Hours Internet.
+[2026-09-14 12:04:53] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL6CPR2AB5 for package 3 Hours Internet.
+[2026-09-14 12:04:53] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALPQQGE7BK for package 3 Hours Internet.
+[2026-09-14 12:04:53] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALKDBUVBUF for package 3 Hours Internet.
+[2026-09-14 12:04:54] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALUD35BEYM for package 3 Hours Internet.
+[2026-09-14 12:04:54] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALLYSSRK2R for package 3 Hours Internet.
+[2026-09-14 12:04:54] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL58YZU2Z6 for package 3 Hours Internet.
+[2026-09-14 12:04:54] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALNB5JGT6J for package 3 Hours Internet.
+[2026-09-14 12:04:55] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALEKRFCCZE for package 3 Hours Internet.
+[2026-09-14 12:04:56] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALKGRXJL67 for package 3 Hours Internet.
+[2026-09-14 12:04:56] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALY67T5WGF for package 3 Hours Internet.
+[2026-09-14 12:04:56] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALP666SG4X for package 3 Hours Internet.
+[2026-09-14 12:04:56] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL6R4P73M8 for package 3 Hours Internet.
+[2026-09-14 12:04:57] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALJBD7UQUS for package 3 Hours Internet.
+[2026-09-14 12:04:57] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL2BELQWPX for package 3 Hours Internet.
+[2026-09-14 12:04:58] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALW759374Q for package 3 Hours Internet.
+[2026-09-14 12:05:02] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALV3Q32YLF for package 3 Hours Internet.
+[2026-09-14 12:05:03] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALR6BMFAMK for package 3 Hours Internet.
+[2026-09-14 12:05:04] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALAXCAWSBP for package 3 Hours Internet.
+[2026-09-14 12:05:04] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALBTXM3TKC for package 3 Hours Internet.
+[2026-09-14 12:05:05] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALPZ3FJV3P for package 3 Hours Internet.
+[2026-09-14 12:05:06] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALN4SMTSHJ for package 3 Hours Internet.
+[2026-09-14 12:05:06] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALEPEL7LK9 for package 3 Hours Internet.
+[2026-09-14 12:05:07] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALBFN5JJ3M for package 3 Hours Internet.
+[2026-09-14 12:05:07] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher AL45XX3UAP for package 3 Hours Internet.
+[2026-09-14 12:05:07] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALR6Q7ZFDH for package 3 Hours Internet.
+[2026-09-14 12:05:08] [SUCCESS] [admin:1] [VOUCHER_CREATE] [::1] Created voucher ALTU6AKWRG for package 3 Hours Internet.
